@@ -1,0 +1,13 @@
+Starting up...
+MSC v1937 at Sat Dec 23 01:35:35 2023
+Initializing commands
+Key thread started
+Initialized command manager (1/3)
+Initializing modules
+Initialized module manager (2/3)
+Initializing config
+Saving config default
+Initialized config manager (3/3)
+Setting up Hooks...
+Hooks initialized
+Saving config default
