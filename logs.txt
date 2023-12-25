@@ -10,3 +10,4 @@ Saving config default
 Initialized config manager (3/3)
 Setting up Hooks...
 Hooks initialized
+Saving config default
