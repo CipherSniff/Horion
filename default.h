@@ -1029,7 +1029,7 @@
         "visible": true
     },
     "Xray": {
-        "enabled": true,
+        "enabled": false,
         "keybind": 82,
         "visible": true
     },
